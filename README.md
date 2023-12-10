@@ -1,1 +1,1 @@
-# VINQO-SubsManager
+# VINQO-IPTV
