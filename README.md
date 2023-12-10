@@ -1,6 +1,6 @@
 # VINQO-IPTV
 
-[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQO-IPTV?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQO-IPTV/releases/tag/V4)
+[![Latest Release](https://img.shields.io/github/v/release/v1nqour/VINQO-IPTV?label=latest%20release&style=flat-square)](https://github.com/v1nqour/VINQO-IPTV/releases/tag/IPTV)
 
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQO-IPTV/releases) section.
 
