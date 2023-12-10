@@ -5,23 +5,22 @@
 Welcome to my project! You can find the latest release and release notes in the [Releases](https://github.com/v1nqour/VINQO-IPTV/releases) section.
 
 ## **Welcome Page:**
-![Local Image]()
+![Local Image](Welcome.JPG)
 
-## **Sign up Page:**
-![Local Image]()
+## **Sign In Page:**
+![Local Image](Signin.JPG)
 
 ## **Dashboard Page:**
-![Local Image]()
+![Local Image](Dashboard.JPG)
 
-## **Auther Page:**
-![Local Image]()
+## **Add Client Page:**
+![Local Image](Addclient.JPG)
 
-## **Contact Us Page:**
-![Local Image]()
+## **Update Page:**
+![Local Image](Update.JPG)
 
-## **Admin Pages:**
-![Local Image]()
-![Local Image]()
+## **Account Activation Pages:**
+![Local Image](Actication.JPG)
 
 ### To set up a ***Laravel*** project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal:
