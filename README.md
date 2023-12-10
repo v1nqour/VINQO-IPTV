@@ -25,11 +25,7 @@ Welcome to my project! You can find the latest release and release notes in the 
 ### To set up a ***Laravel*** project using an alternative method, you can follow these steps:
 ####  type the following command in the Terminal:
 
-#### Copy .env file then fill database fields
-`cp .env.example .env` 
-#### Install dependencies
-`composer install`  
-#### If you encounter an error while setting up the composer, try running this comand:
+#### If you encounter an error while setting up, try running this comand:
 `composer update`  
 #### Set the application key
 `php artisan key:generate`
